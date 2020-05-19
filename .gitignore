@@ -1,0 +1,14 @@
+*
+!*/
+!/*.md
+!/.idea/**
+!/.php-version
+!/composer.*
+!/config/**
+!/docker-compose.yaml
+!/php.ini
+!/phpunit.xml.dist
+!/web/modules/custom/**
+!/web/sites/default/settings.php
+/.idea/workspace.xml
+/vendor/
