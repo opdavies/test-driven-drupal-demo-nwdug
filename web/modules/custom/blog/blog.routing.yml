@@ -1,0 +1,7 @@
+blog.page:
+  path: /blog
+  defaults:
+    _controller: Drupal\blog\Controller\BlogPageController
+    _title: Blog
+  requirements:
+    _permission: access content
